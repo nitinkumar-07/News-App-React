@@ -12,7 +12,7 @@ import axios from 'axios';
 const links = ["Business", "Entertainment", "Health", "Science", "Sports", "Technology"]
 const Navbar = ({ setArticles, setSearch  }) => {
 
-    const API_KEY = "79701faa2c744d5c9c9a08ad790faba1"
+    const API_KEY = "c62311ce5d784019b0fd589f77aae124"
 
     const { theme, setTheme } = useContext(ThemeContext)
     const [open, setOpen] = useState(false)

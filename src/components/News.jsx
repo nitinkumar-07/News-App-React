@@ -5,7 +5,7 @@ import { Loader2 } from 'lucide-react';
 
 const News = ({ category, articles, setArticles }) => {
 
-    const API_KEY = "79701faa2c744d5c9c9a08ad790faba1"
+    const API_KEY = "c62311ce5d784019b0fd589f77aae124"
 
     const [loading, setLoading] = useState(false)
 

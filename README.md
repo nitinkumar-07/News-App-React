@@ -57,7 +57,9 @@ Search <img width="1917" height="910" alt="Screenshot 2025-09-16 070010" src="ht
 
 Dark Mode <img width="1919" height="912" alt="Screenshot 2025-09-16 070121" src="https://github.com/user-attachments/assets/f21fe8f0-d396-4be9-9d13-b26e1268cb32" />
 
-Mobile Responsive <img width="364" height="799" alt="Screenshot 2025-09-16 070337" src="https://github.com/user-attachments/assets/07682d2e-1087-4a84-823c-ed7d1f4f0077" />
+Search & dark <img width="1919" height="905" alt="Screenshot 2025-09-16 070304" src="https://github.com/user-attachments/assets/02d8528b-698b-426f-8d29-eb60e1bffb29" />
+
+ Mobile Responsive<img width="364" height="799" alt="Screenshot 2025-09-16 070337" src="https://github.com/user-attachments/assets/07682d2e-1087-4a84-823c-ed7d1f4f0077" />
 
 
 

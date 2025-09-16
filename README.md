@@ -93,11 +93,11 @@ Search & dark <img width="1919" height="905" alt="Screenshot 2025-09-16 070304" 
 
 • 🚀 Future plan: Add a small backend to handle requests and then deploy seamlessly on Netlify / Vercel.
 
-🤝 Connect with Me
+## 🤝 Connect with Me
 
 👨‍💻 Nitin Kumar 
 
-💼 LinkedIn : [https://www.linkedin.com/in/nitin-kumar-491813336/]
+💼 LinkedIn :- [https://www.linkedin.com/in/nitin-kumar-491813336/]
 
 # React + Vite
 

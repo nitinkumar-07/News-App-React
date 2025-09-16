@@ -5,11 +5,17 @@ A modern and responsive React-based News Application that delivers the latest he
 ## 🚀 Features
 
 • 🌐 Category Wise News – General, Technology, Sports, Business, Entertainment, Health, and more
+
 • 🔍 Search Functionality – Instantly find articles by keyword
+
 • 🌙 Dark/Light Mode – Smooth theme toggle using Context API
+
 • ⚡ Fast & Responsive UI – Built with React + TailwindCSS
+
 • 🔄 Dynamic API Integration – Real-time news fetching using Axios
+
 • 🖼 Beautiful Cards UI – Clean and modern design for each article
+
 • 📱 Responsive Layout – Works seamlessly on mobile, tablet, and desktop
 
 ## 🛠️ Tech Stack

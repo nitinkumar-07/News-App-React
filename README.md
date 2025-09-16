@@ -55,6 +55,9 @@ Home page <img width="1910" height="906" alt="Screenshot 2025-09-16 065933" src=
 
 Search <img width="1917" height="910" alt="Screenshot 2025-09-16 070010" src="https://github.com/user-attachments/assets/11328844-e0ea-4f13-b062-1b12d2416d68" />
 
+News View <img width="1919" height="1008" alt="Screenshot 2025-09-16 071202" src="https://github.com/user-attachments/assets/afdb43d8-ae81-4863-beb8-d3e08fb47021" />
+
+
 Dark Mode <img width="1919" height="912" alt="Screenshot 2025-09-16 070121" src="https://github.com/user-attachments/assets/f21fe8f0-d396-4be9-9d13-b26e1268cb32" />
 
 Search & dark <img width="1919" height="905" alt="Screenshot 2025-09-16 070304" src="https://github.com/user-attachments/assets/02d8528b-698b-426f-8d29-eb60e1bffb29" />

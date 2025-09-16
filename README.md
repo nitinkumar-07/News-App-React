@@ -51,7 +51,8 @@ src/
 
  ## 📸 Screenshots
 
-🔲 Add your app screenshots here
+Home page <img width="1910" height="906" alt="Screenshot 2025-09-16 065933" src="https://github.com/user-attachments/assets/95f34eae-12dc-446f-bcb2-a861fedaadbe" />
+
 
 ## 💡 Challenges Faced
 

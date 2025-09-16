@@ -53,6 +53,15 @@ src/
 
 Home page <img width="1910" height="906" alt="Screenshot 2025-09-16 065933" src="https://github.com/user-attachments/assets/95f34eae-12dc-446f-bcb2-a861fedaadbe" />
 
+Search <img width="1917" height="910" alt="Screenshot 2025-09-16 070010" src="https://github.com/user-attachments/assets/11328844-e0ea-4f13-b062-1b12d2416d68" />
+
+Dark Mode <img width="1919" height="912" alt="Screenshot 2025-09-16 070121" src="https://github.com/user-attachments/assets/f21fe8f0-d396-4be9-9d13-b26e1268cb32" />
+
+Mobile Responsive <img width="364" height="799" alt="Screenshot 2025-09-16 070337" src="https://github.com/user-attachments/assets/07682d2e-1087-4a84-823c-ed7d1f4f0077" />
+
+
+
+
 
 ## 💡 Challenges Faced
 

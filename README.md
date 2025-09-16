@@ -1,8 +1,8 @@
-## 📰 Desh Duniya - News Web App
+# 📰 Desh Duniya - News Web App
 
 A modern and responsive React-based News Application that delivers the latest headlines from around the world 🌍. Built with clean UI, category-wise filtering, and a sleek dark/light theme toggle for the best reading experience.
 
-# 🚀 Features
+## 🚀 Features
 
 • 🌐 Category Wise News – General, Technology, Sports, Business, Entertainment, Health, and more
 • 🔍 Search Functionality – Instantly find articles by keyword
@@ -12,7 +12,7 @@ A modern and responsive React-based News Application that delivers the latest he
 • 🖼 Beautiful Cards UI – Clean and modern design for each article
 • 📱 Responsive Layout – Works seamlessly on mobile, tablet, and desktop
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 • React.js (Frontend framework)
 
@@ -28,7 +28,7 @@ A modern and responsive React-based News Application that delivers the latest he
 
 • Lucide React & React Icons (Icons)
 
-# 🏗️ Project Structure
+## 🏗️ Project Structure
 src/
  ┣ components/
  ┃ ┣ Navbar.jsx
@@ -43,18 +43,18 @@ src/
  ┣ App.js
  ┗ index.js
 
- # 📸 Screenshots
+ ## 📸 Screenshots
 
 🔲 Add your app screenshots here
 
-# 💡 Challenges Faced
+## 💡 Challenges Faced
 
 • ❌ API restrictions on free plan (CORS issues, 426/blocked requests)
 • 🔑 Handling API keys securely with .env
 • 🎨 Making dark/light mode work smoothly with Context API
 • 📱 Responsive design fixes for mobile view
 
-# 🌟 Future Improvements
+## 🌟 Future Improvements
 
 ✅ Pagination for more articles
 
@@ -64,7 +64,7 @@ src/
 
 ✅ Deploy with backend proxy for better API handling
 
-# 🌍 Deployment Notes
+## 🌍 Deployment Notes
 
 • 🚫 Tried deploying on Netlify, but faced CORS restrictions and 426 errors due to NewsAPI free plan limitations (only works on localhost).
 

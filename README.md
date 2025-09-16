@@ -50,9 +50,11 @@ src/
 ## 💡 Challenges Faced
 
 • ❌ API restrictions on free plan (CORS issues, 426/blocked requests)
+
 • 🔑 Handling API keys securely with .env
+
 • 🎨 Making dark/light mode work smoothly with Context API
-• 📱 Responsive design fixes for mobile view
+
 
 ## 🌟 Future Improvements
 
